@@ -9,3 +9,7 @@
                      --> turn of mySQL
                       --> open xampp server and turn on appache and mysql
    5. copy paste the codes in vs code 6. create database in xampp server and copy paste mysql command provided below.
+   6. Make sure you copy paste the student_marks.txt , attendance.txt,student_mentor.txt,student_parents.txt,student_projects.txt  in xampp server mysql command line
+   7. first create a database inter_results.
+   8. then copy paste all the txt files one by one so that you can create 6 tables in it.
+   9. 
