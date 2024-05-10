@@ -1,5 +1,5 @@
 # DBMS_PROJECT_STUDENT_PERFORMANCE_LOOKUP
-  This is a simple database managment project for B-tech students , which contain 6 SQL tables linked through php , frount end was written in html , css  and used XAMPP for server  
+  This is a simple database managment project for B-tech students , which contain 6 SQL tables linked through php , front-end was written in html , css  and used XAMPP for server  
   1. use vs code for running the codes
   2.  install xampp server for local server from your browser.
   3. copy paste the code and don't forget to use the same folder names for your code.
